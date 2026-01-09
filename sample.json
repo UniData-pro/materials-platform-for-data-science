@@ -1,0 +1,42 @@
+	
+s.polehina
+4:44 PM
+
+
+
+
+
+
+{
+ "sample": {
+  "material": {
+   "entry": "P1801016-1",
+   "phase": "BaTiO3/99/tP5",
+   "phase_id": 26763,
+   "condition": [{
+    "name": "Space group",
+    "scalar": 99
+   }],
+   "chemical_formula": "BaTiO3",
+   "chemical_elements": [ "Ba", "O", "Ti" ]
+  },
+  "measurement": [{
+   "property": {
+    "name": "ferroelectric Curie temperature",
+    "category": "ferroelectric transitions",
+    "domain": "electronic and electrical properties",
+    "scalar": 393,
+    "units": "K"
+   },
+   "data_type": "peer_reviewed"
+  }]
+ },
+ "$schema": "https://developer.mpds.io/mpds.schema.json#/definitions/physical_property",
+ "version": "1.2.5",
+ "object_type": "P",
+ "reference": {
+ "entry": "https://mpds.io/entry/P1801016",
+ "release": "2025",
+ "phase": "https://mpds.io/phase_id/26763"
+ }
+}
